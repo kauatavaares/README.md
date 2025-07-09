@@ -1,8 +1,8 @@
-# ⚡Ruan
+# ⚡Kaua Tavares
 
-**`Desenvolvedor full stack em formação! 🚀`**
+**`Desenvolvedor em formação! 🚀`**
 
-Me chamo Ruan, tenho 21 anos e sou natural do Ceará . Estou cursando Sistema de Informação na Universidade Federal do Ceará (UFC)
+Me chamo Kaua, tenho 21 anos e sou natural do Ceará . Estou cursando Redes de computadores na Universidade Federal do Ceará (UFC)
 
  
 
@@ -97,16 +97,16 @@ Me chamo Ruan, tenho 21 anos e sou natural do Ceará . Estou cursando Sistema de
     alt="GitHub Stats" 
     height="160" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=ruan-raujo&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=kauatavaares&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="160" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruan-raujo&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauatavaares&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
-  <img src="https://raw.githubusercontent.com/ruan-raujo/ruan-raujo/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/kauatavaares/kauatavaares/output/snake.svg" alt="Snake animation" />
 
 ###

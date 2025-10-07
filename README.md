@@ -2,7 +2,7 @@
 
 **`Desenvolvedor em formação! 🚀`**
 
-Me chamo Kaua, tenho 21 anos e sou natural do Ceará . Estou cursando Redes de computadores na Universidade Federal do Ceará (UFC)
+Me chamo Kaua, tenho 20 anos e sou natural do Ceará . Estou cursando Redes de computadores na Universidade Federal do Ceará (UFC)
 
  
 
